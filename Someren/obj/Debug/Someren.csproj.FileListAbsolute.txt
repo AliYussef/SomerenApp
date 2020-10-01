@@ -1,0 +1,36 @@
+c:\users\thijs otter\documents\visual studio 2015\Projects\Someren\Someren\bin\Debug\Someren.exe.config
+c:\users\thijs otter\documents\visual studio 2015\Projects\Someren\Someren\obj\Debug\Someren.csprojResolveAssemblyReference.cache
+c:\users\thijs otter\documents\visual studio 2015\Projects\Someren\Someren\obj\Debug\Someren.Properties.Resources.resources
+c:\users\thijs otter\documents\visual studio 2015\Projects\Someren\Someren\obj\Debug\Someren.csproj.GenerateResource.Cache
+c:\users\thijs otter\documents\visual studio 2015\Projects\Someren\Someren\bin\Debug\Someren.exe
+c:\users\thijs otter\documents\visual studio 2015\Projects\Someren\Someren\bin\Debug\Someren.pdb
+c:\users\thijs otter\documents\visual studio 2015\Projects\Someren\Someren\obj\Debug\Someren.exe
+c:\users\thijs otter\documents\visual studio 2015\Projects\Someren\Someren\obj\Debug\Someren.pdb
+c:\users\thijs otter\documents\visual studio 2015\Projects\Someren\Someren\obj\Debug\Someren.Someren_Form.resources
+C:\Users\Thijs Otter\Desktop\Someren_IT\Someren\Someren\bin\Debug\Someren.exe.config
+C:\Users\Thijs Otter\Desktop\Someren_IT\Someren\Someren\obj\Debug\Someren.exe
+C:\Users\Thijs Otter\Desktop\Someren_IT\Someren\Someren\obj\Debug\Someren.pdb
+C:\Users\Thijs Otter\Desktop\Someren_IT\Someren\Someren\bin\Debug\Someren.exe
+C:\Users\Thijs Otter\Desktop\Someren_IT\Someren\Someren\bin\Debug\Someren.pdb
+C:\Users\Thijs Otter\Desktop\Someren_IT\Someren\Someren\obj\Debug\Someren.csprojResolveAssemblyReference.cache
+C:\Users\Thijs Otter\Desktop\Someren_IT\Someren\Someren\obj\Debug\Someren.Someren_Form.resources
+C:\Users\Thijs Otter\Desktop\Someren_IT\Someren\Someren\obj\Debug\Someren.Properties.Resources.resources
+C:\Users\Thijs Otter\Desktop\Someren_IT\Someren\Someren\obj\Debug\Someren.csproj.GenerateResource.Cache
+C:\Users\nmk25\Documents\Институт\Third Term\project\Someren_IT\Someren_IT\Someren\Someren\bin\Debug\Someren.exe.config
+C:\Users\nmk25\Documents\Институт\Third Term\project\Someren_IT\Someren_IT\Someren\Someren\obj\Debug\Someren.exe
+C:\Users\nmk25\Documents\Институт\Third Term\project\Someren_IT\Someren_IT\Someren\Someren\obj\Debug\Someren.pdb
+C:\Users\nmk25\Documents\Институт\Third Term\project\Someren_IT\Someren_IT\Someren\Someren\bin\Debug\Someren.exe
+C:\Users\nmk25\Documents\Институт\Third Term\project\Someren_IT\Someren_IT\Someren\Someren\bin\Debug\Someren.pdb
+C:\Users\nmk25\Documents\Институт\Third Term\project\Someren_IT\Someren_IT\Someren\Someren\obj\Debug\Someren.csprojResolveAssemblyReference.cache
+C:\Users\nmk25\Documents\Институт\Third Term\project\Someren_IT\Someren_IT\Someren\Someren\obj\Debug\Someren.Someren_Form.resources
+C:\Users\nmk25\Documents\Институт\Third Term\project\Someren_IT\Someren_IT\Someren\Someren\obj\Debug\Someren.Properties.Resources.resources
+C:\Users\nmk25\Documents\Институт\Third Term\project\Someren_IT\Someren_IT\Someren\Someren\obj\Debug\Someren.csproj.GenerateResource.Cache
+C:\Users\nmk25\Source\Repos\Project_term_3\Someren\bin\Debug\Someren.exe.config
+C:\Users\nmk25\Source\Repos\Project_term_3\Someren\obj\Debug\Someren.exe
+C:\Users\nmk25\Source\Repos\Project_term_3\Someren\obj\Debug\Someren.pdb
+C:\Users\nmk25\Source\Repos\Project_term_3\Someren\bin\Debug\Someren.exe
+C:\Users\nmk25\Source\Repos\Project_term_3\Someren\bin\Debug\Someren.pdb
+C:\Users\nmk25\Source\Repos\Project_term_3\Someren\obj\Debug\Someren.csprojResolveAssemblyReference.cache
+C:\Users\nmk25\Source\Repos\Project_term_3\Someren\obj\Debug\Someren.Someren_Form.resources
+C:\Users\nmk25\Source\Repos\Project_term_3\Someren\obj\Debug\Someren.Properties.Resources.resources
+C:\Users\nmk25\Source\Repos\Project_term_3\Someren\obj\Debug\Someren.csproj.GenerateResource.Cache
